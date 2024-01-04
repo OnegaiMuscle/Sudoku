@@ -38,3 +38,20 @@ input {
   font-size: min(7vh, 7vw);
   text-align: center;
 }
+
+input[readonly] {
+  color: #2b2b95;
+}
+
+input:invalid,
+.invalide {
+  border: 1px solid red;
+  background-color: #eec3c3;
+}
+
+button {
+  display: block;
+  margin: 1em auto 0;
+  padding: .5em 2em;
+  font-size: min(3vh, 3vw);
+}
