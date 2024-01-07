@@ -34,7 +34,7 @@ input {
   height: min(10vh, 10vw);
   width: min(10vh, 10vw);
   background-color: #efefef;
-  -moz-appearance: textfield;
+  -webkit-appearance: textfield;
   font-size: min(7vh, 7vw);
   text-align: center;
 }
