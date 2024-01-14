@@ -55,3 +55,10 @@ button {
   padding: .5em 2em;
   font-size: min(3vh, 3vw);
 }
+
+.newgrid {
+  background-color: #2b2b88;
+  padding: 1vh;
+  margin: 1vh auto;
+  width: 50px
+}
