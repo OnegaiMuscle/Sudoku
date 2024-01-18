@@ -66,3 +66,9 @@ button {
   width: 200px;
   text-align: center;
 }
+
+span {
+  font-size: min(5vh, 5vw);
+  background-color: #2b2b88;
+  color: white;
+}
